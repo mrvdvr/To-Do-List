@@ -1,6 +1,8 @@
 body {
     background-color: #e4e9fd;
-    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+    background-image: url("https://hdwallsource.com/img/2014/6/table-flowers-40130-41067-hd-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     min-height: 500px;
     font-family: 'helvetica neue';
    
@@ -19,7 +21,7 @@ body {
 }
 
 #heading {
-    background-color: #A683E3;
+    background-color: #914B8A;
     text-align: center; 
 }
 
@@ -62,7 +64,7 @@ button {
     width: 50px;
     border-radius: 50%;
     border-color: transparent;
-    background-color: #A683E3;
+    background-color: #914B8A;
     color: #ffffff;
     font-size: 30px;
     padding-bottom: 6px;
